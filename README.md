@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/__manu___r" target="blank"><img src="https://img.shields.io/twitter/follow/__manu___r?logo=twitter&style=for-the-badge" alt="__manu___r" /></a> </p>
 
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [manugarathnayaka.com](manugarathnayaka.com)
+
+- 📫 How to reach me **manugarathnayaka@gmail.com**
+
+- 📄 Know about my experiences [manugarathnayaka.com](manugarathnayaka.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__manu___r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__manu___r" height="30" width="40" /></a>
