@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [manugarathnayaka.com](manugarathnayaka.com)
-
 - 📫 How to reach me **manugarathnayaka@gmail.com**
-
-- 📄 Know about my experiences [manugarathnayaka.com](manugarathnayaka.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
